@@ -8,4 +8,4 @@ A continuación, el listado de secciones:
 | # | Sección                                                      | Ver en vivo      |
 |:-:|--------------------------------------------------------------|------------------|
 | 1 | [Navbar (Barra de negación)](https://github.com/emicastor/20-secciones-web-comunes/tree/main/navbar)   |[Ver en vivo]()   |
-| 1 | [Header](https://github.com/emicastor/20-secciones-web-comunes/tree/main/header)   |[Ver en vivo]()   |
+| 2 | [Header](https://github.com/emicastor/20-secciones-web-comunes/tree/main/header)   |[Ver en vivo]()   |
