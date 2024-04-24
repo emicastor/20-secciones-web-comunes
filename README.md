@@ -3,8 +3,6 @@ Este proyecto nace con un solo objetivo: que cualquier persona, tenga o no conoc
 
 El foco está puesto en las secciones a modo general, sin entrar en detalles en estilos CSS ni Javascript. Eso, esta vez no importa.
 
-Link del proyecto → (https://20seccioneswebcomunes.netlify.app)
-
 A continuación, el listado de secciones:
 
 | # | Sección                                                      | Ver en vivo      |
