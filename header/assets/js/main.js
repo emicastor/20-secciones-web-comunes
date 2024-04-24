@@ -39,11 +39,3 @@ const menuHambur = () => {
         iconX.classList.add('d-block');
     }
 }
-
-navLink.forEach(n => n.addEventListener('click', menuHambur));
-
-const linkAction = () => {
-    const navMenu = document.getElementById('collapsibleNavId');
-    navMenu.classList.remove('show');
-}
-navLink.forEach(n => n.addEventListener('click', linkAction));
